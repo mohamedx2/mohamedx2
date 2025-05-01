@@ -1,44 +1,61 @@
-# 👋 Hello, I'm Mohamed Ali Hamroun  
+# Mohamed Ali Hamroun
 
-**🚀 Full Stack Developer | 💻 Computer Science Student**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-hamroun-486573314/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamroun1969@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamedalihamroun.me)
 
----
+## 👨‍💻 Full Stack Developer | Computer Science Enthusiast
 
-### 🌟 About Me  
-- 👨‍🎓 **Education**: Graduated from the High School of Computer Science, Mahdia.  
-- 🖥️ Passionate about creating efficient, scalable, and innovative web applications.  
-- 🧩 Skilled in **MERN Stack**, **Next.js**, **Tailwind CSS**, **Docker**, and **MySQL**.  
-- 🌐 Developing **mohamedalihamroun.me** as my personal portfolio.  
+> Building elegant solutions to complex problems
 
----
+### 🚀 About Me
 
-### 🌍 Projects & Achievements  
-- **Mega-Tel Web Application**  
-  Built using the MERN stack, implementing seamless authentication and a robust database backend.  
-- **Online Compiler**  
-  Currently working on an interactive, cloud-based online compiler.  
-- **Hotel Room and Coffee Table Reservation App**  
-  A scalable app with drag-and-drop features, user authentication, and reservation management.  
-- **Note-Taking Feature**  
-  Designed and implemented a drag-and-drop note-taking tool using **React** and **framer-motion**.  
+I'm a passionate full-stack developer with a strong foundation in computer science, having graduated from the High School of Computer Science in Mahdia. I specialize in creating efficient, scalable web applications using modern technologies.
 
----
+- 🔭 Currently developing my portfolio site at **mohamedalihamroun.me**
+- 🌱 Always learning and expanding my tech stack
+- 💬 Let's talk about web development, cloud solutions, or software architecture
 
-### 🛠️ Technical Skills  
-- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS  
-- **Backend**: Node.js, Express.js, Supabase, MySQL, MongoDB  
-- **DevOps**: Docker, Render, GitHub Actions  
-- **Languages**: JavaScript, TypeScript, Python, Nim  
+### 💼 Featured Projects
 
----
+<table>
+  <tr>
+    <td><b>🌐 Mega-Tel Web App</b></td>
+    <td>MERN stack application with secure authentication and comprehensive database management</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Online Compiler</b></td>
+    <td>Interactive cloud-based compiler supporting multiple programming languages (in development)</td>
+  </tr>
+  <tr>
+    <td><b>🏨 Reservation System</b></td>
+    <td>Hotel room and coffee table booking platform with intuitive drag-and-drop UI</td>
+  </tr>
+  <tr>
+    <td><b>📝 Note-Taking App</b></td>
+    <td>Dynamic note organization tool built with React and framer-motion</td>
+  </tr>
+</table>
 
-### 📬 Contact Me  
-- **GitHub**: [mohamedx2](https://github.com/mohamedx2/)  
-- **LinkedIn**: [Mohamed Ali Hamroun](https://www.linkedin.com/in/mohamed-ali-hamroun-486573314/)  
-- **Email**: hamroun1969@gmail.com  
-- **Phone**: +216 52269898  
+### 🛠️ Tech Stack
 
----
+```
+Frontend   | React, Next.js, Tailwind CSS, HTML/CSS
+Backend    | Node.js, Express.js, Supabase
+Databases  | MongoDB, MySQL
+DevOps     | Docker, Render, GitHub Actions
+Languages  | JavaScript, TypeScript, Python, Nim
+```
 
-### 🌟 Fun Fact  
-I’m proudly a member of the **Java Haters Club**! 😅  
+### 📫 Connect With Me
+
+- GitHub: [mohamedx2](https://github.com/mohamedx2/)
+- LinkedIn: [Mohamed Ali Hamroun](https://www.linkedin.com/in/mohamed-ali-hamroun-486573314/)
+- Email: hamroun1969@gmail.com
+- Phone: +216 52269898
+
+<details>
+<summary>⚡ Fun Fact</summary>
+<br>
+I'm a proud member of the Java Haters Club! 😅
+</details>
