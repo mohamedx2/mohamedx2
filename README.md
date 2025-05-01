@@ -14,7 +14,7 @@
 
 Hey! I'm Mohamed Ali Hamroun, a 22-year-old full stack developer and computer science student from Tunisia. I love building projects from the ground up—whether it's crafting custom JavaScript frameworks, writing backend engines in Go, or wiring up a line follower robot with Arduino.
 
-I'm passionate about learning how things work under the hood. That's why I've built my own SGBD (database engine) in Go, a full-stack JavaScript framework with SolidJS, and even a Nim-based async web server. I enjoy working across the stack, from designing intuitive frontends with React and Tailwind, to deploying Dockerized apps with robust backends.
+I'm passionate about learning how things work under the hood. That's why I've built my own SGBD (database engine) in Go and even a Nim-based async web server. I enjoy working across the stack, from designing intuitive frontends with React and Tailwind, to deploying Dockerized apps with robust backends.
 
 - 🔭 Currently developing my portfolio site at **mohamedalihamroun.me**
 - 🌱 Always exploring new technologies and building interesting projects
@@ -116,9 +116,6 @@ mindmap
         <a href="https://go.dev/">
           <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         </a>
-        <a href="https://www.rust-lang.org/">
-          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-        </a>
         <a href="https://nim-lang.org/">
           <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black" />
         </a>
@@ -128,9 +125,7 @@ mindmap
     <td width="50%">
       <h3 align="center">Hardware Projects</h3>
       <p align="center">
-        <a href="#">🤖 Line Follower Robot with Arduino & TCRT5000</a><br/>
-        <a href="#">🪞 Smart Mirror with Raspberry Pi</a><br/>
-        <a href="#">🔌 IoT Home Automation Experiments</a>
+        <a href="#">🤖 Line Follower Robot with Arduino & TCRT5000</a>
       </p>
     </td>
   </tr>
@@ -223,6 +218,28 @@ JSON         42 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://miro.medium.com/max/1400/1*mqv03KBNvNSQ5LU-hwa_fg.gif" width="400" />
 </p>
 </details>
+
+## 📦 Open Source Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🔹 GoDB – Lightweight Go Database Engine</h3>
+        <p>GoDB is a minimalist, high-performance database system written in Go. It features ACID-like transactions, data validation, thread-safe operations, and cross-platform support. GoDB includes a CLI, a Node.js client library, and a REST API, making it versatile for various applications.</p>
+        <p align="center">
+          <a href="https://mohamedalihamroun.me"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+          <a href="https://github.com/mohamedx2/godb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=windows-terminal&logoColor=white"/>
+          <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🎯 Future Goals
 
