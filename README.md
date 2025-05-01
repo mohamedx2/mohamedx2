@@ -10,16 +10,29 @@
 
 ## 👨‍💻 About Me
 
-> "Building elegant solutions to complex problems"
+> "Engineering elegant solutions to complex technical challenges"
 
-Hey! I'm Mohamed Ali Hamroun, a 22-year-old full stack developer and computer science student from Tunisia. I love building projects from the ground up—whether it's crafting custom JavaScript frameworks, writing backend engines in Go, or wiring up a line follower robot with Arduino.
+<div align="left">
+  <p>
+    I'm Mohamed Ali Hamroun, a results-driven Full Stack Developer and Computer Science student from Tunisia with a passion for building scalable, high-performance applications from the ground up. With expertise spanning both software and hardware domains, I specialize in developing innovative solutions that combine technical excellence with intuitive user experiences.
+  </p>
+  
+  <p>
+    My technical curiosity drives me to understand systems at their core—whether it's engineering a custom database engine in Go, architecting efficient web servers in Nim, or developing hardware solutions with microcontrollers. I thrive in the full development lifecycle, from conceptualizing architecture to optimizing performance and deployment.
+  </p>
 
-I'm passionate about learning how things work under the hood. That's why I've built my own SGBD (database engine) in Go and even a Nim-based async web server. I enjoy working across the stack, from designing intuitive frontends with React and Tailwind, to deploying Dockerized apps with robust backends.
-
-- 🔭 Currently developing my portfolio site at **mohamedalihamroun.me**
-- 🌱 Always exploring new technologies and building interesting projects
-- 🤖 Experience with both software and hardware projects (Raspberry Pi, Arduino)
-- 🚀 Open to new ideas, collaborations, and technical challenges
+  <div>
+    <img align="left" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core+Competencies&align=left&titleAlign=left&lineCount=2&theme=github_dark&line1=react,React,61DAFB;node.js,Node.js,339933;go,Go,00ADD8;&line2=docker,Docker,2496ED;mongodb,MongoDB,47A248;typescript,TypeScript,3178C6;" alt="Core Tech Stack" width="450px" />
+    
+    <ul style="list-style-type: none;">
+      <li>🔭 Currently architecting my portfolio platform at <b>mohamedalihamroun.me</b></li>
+      <li>🌱 Focused on distributed systems and microservice architecture</li>
+      <li>🚀 Committed to writing clean, maintainable, and efficient code</li>
+      <li>🔍 Experienced in both system-level and application development</li>
+    </ul>
+  </div>
+  <div style="clear: both;"></div>
+</div>
 
 <details>
 <summary>📊 GitHub Stats</summary>
