@@ -95,18 +95,116 @@ mindmap
 ## 📫 Connect With Me
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/github/followers/mohamedx2?label=follow&style=social)](https://github.com/mohamedx2/)
-[![LinkedIn](https://img.shields.io/badge/-Mohamed_Ali_Hamroun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ali-hamroun-486573314/)
-[![Email](https://img.shields.io/badge/-hamroun1969@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hamroun1969@gmail.com)
-[![Phone](https://img.shields.io/badge/-+216_52269898-25D366?style=flat&logo=WhatsApp&logoColor=white)](tel:+21652269898)
-
+  <a href="https://github.com/mohamedx2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-ali-hamroun-486573314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hamroun1969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="tel:+21652269898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://dev.to/your-dev-to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
 </div>
+
+## 🌱 Current Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">What I'm Learning</h3>
+      <p align="center">
+        <a href="https://go.dev/">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        </a>
+        <a href="https://aws.amazon.com/">
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        </a>
+        <a href="https://www.rust-lang.org/">
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Currently expanding my skillset with cloud architecture and systems programming</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Latest Articles</h3>
+      <p align="center">
+        <a href="#">📝 Building Scalable Microservices with Docker</a><br/>
+        <a href="#">📝 React Performance Optimization Techniques</a><br/>
+        <a href="#">📝 Introduction to Web3 Development</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB_Certified_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hacktoberfest_2023-183D3D?style=for-the-badge&logo=digitalocean&logoColor=white"></a>
+</div>
+
+## 💼 Work Experience
+
+```mermaid
+timeline
+    title Career Journey
+    2021 : Graduated from High School of Computer Science
+         : First Internship
+    2022 : Junior Developer
+         : First Major Project
+    2023 : Mid-level Developer
+         : Team Lead Role
+    2024 : Current Position
+         : Advanced Software Engineering
+```
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 41 mins  ████████████▓░░░░░░░░  42.01%
+TypeScript   8 hrs 12 mins   ████████▒░░░░░░░░░░░░  32.33%
+React        4 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░  17.85%
+CSS          1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░   4.72%
+JSON         42 mins         ▒░░░░░░░░░░░░░░░░░░░░   2.77%
+```
+<!--END_SECTION:waka-->
+
+## 🧠 My Tech Stack Explained
+
+<details>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p align="center">
+  I specialize in creating responsive and interactive user interfaces using React and Next.js, enhanced with Tailwind CSS for rapid styling. My focus is on performance optimization, accessibility compliance, and creating delightful user experiences.
+</p>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5fc34ab7c59fd6c8275fd05bf1.gif" width="400" />
+</p>
+</details>
+
+<details>
+<summary><b>Backend Development</b></summary>
+<br>
+<p align="center">
+  My backend solutions focus on security, scalability and performance using Node.js/Express.js. I implement RESTful APIs following best practices and utilize MongoDB and MySQL for efficient data management.
+</p>
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*mqv03KBNvNSQ5LU-hwa_fg.gif" width="400" />
+</p>
+</details>
+
+## 🎯 Future Goals
+
+- Contribute to open-source projects
+- Master cloud architecture and serverless technologies
+- Launch a developer education platform
+- Speak at tech conferences
 
 ---
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedx2&theme=onedark&row=1&column=6" alt="trophy" />
+  <br><br>
+  <a href="https://www.buymeacoffee.com/mohamedx2"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=mohamedx2&color=brightgreen" alt="watching_count" />
 </div>
