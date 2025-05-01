@@ -20,9 +20,24 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 <details>
 <summary>📊 GitHub Stats</summary>
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedx2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedx2&layout=compact&langs_count=6&theme=tokyonight"/>
+  
+  <br>
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedx2&theme=tokyonight" alt="mohamedx2" />
+  
+  <br>
+  
+  <!-- GitHub Activity Graph -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedx2&theme=tokyo-night" />
+  
+  <br>
+  
+  <!-- GitHub Contributions -->
+  <img src="https://github.com/mohamedx2/mohamedx2/blob/output/github-contribution-grid-snake.svg" />
 </div>
 </details>
 
