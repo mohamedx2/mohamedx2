@@ -136,28 +136,57 @@ mindmap
   </tr>
 </table>
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB_Certified_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hacktoberfest_2023-183D3D?style=for-the-badge&logo=digitalocean&logoColor=white"></a>
-</div>
-
 ## 💼 Work Experience
 
-```mermaid
-timeline
-    title Career Journey
-    2021 : Graduated from High School of Computer Science
-         : First Internship
-    2022 : Junior Developer
-         : First Major Project
-    2023 : Mid-level Developer
-         : Team Lead Role
-    2024 : Current Position
-         : Advanced Software Engineering
-```
+<div align="center">
+  <h3>🧑‍💻 Full Stack Developer — Personal & Academic Projects</h3>
+  <p><em>2022 — Present</em></p>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://img.shields.io/badge/MERN-00758F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN"/>
+      <h4>Mega-Tel Reservation System</h4>
+      <p>Developed a full-stack hotel & café reservation system using the MERN stack with authentication via NextAuth and Supabase, deployed with Docker.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <h4>Drag-and-Drop Note System</h4>
+      <p>Created a drag-and-drop note-taking system with React, Framer Motion, and Supabase SQL for real-time updates and persistent storage.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://img.shields.io/badge/Compiler-3776AB?style=for-the-badge&logo=code&logoColor=white" alt="Compiler"/>
+      <h4>Online Compiler Platform</h4>
+      <p>Built an online compiler web app that executes code in multiple languages through a custom backend.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      <h4>Custom Database Engine</h4>
+      <p>Engineered a Go-based DBMS using an LSM Tree for indexing and custom disk storage architecture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black" alt="Nim"/>
+      <h4>Async Web Server</h4>
+      <p>Built an async web server in Nim with dynamic route handling and HTML responses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+      <h4>Line-Following Robot</h4>
+      <p>Programmed a line-following robot using Arduino Uno and TCRT5000 sensors with L298N motor control logic.</p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Weekly Development Breakdown
 
