@@ -21,15 +21,12 @@
     My technical curiosity drives me to understand systems at their core—whether it's engineering a custom database engine in Go, architecting efficient web servers in Nim, or developing hardware solutions with microcontrollers. I thrive in the full development lifecycle, from conceptualizing architecture to optimizing performance and deployment.
   </p>
 
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core+Competencies&align=left&titleAlign=left&lineCount=2&theme=github_dark&line1=react,React,61DAFB;node.js,Node.js,339933;go,Go,00ADD8;&line2=docker,Docker,2496ED;mongodb,MongoDB,47A248;typescript,TypeScript,3178C6;" alt="Core Tech Stack" width="450px" />
-    <div style="margin-left: 15px;">
-      <p>🔭 Currently architecting my portfolio platform at <b>mohamedalihamroun.me</b></p>
-      <p>🌱 Focused on distributed systems and microservice architecture</p>
-      <p>🚀 Committed to writing clean, maintainable, and efficient code</p>
-      <p>🔍 Experienced in both system-level and application development</p>
-    </div>
-  </div>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core+Competencies&titleAlign=left&lineCount=2&theme=github_dark&line1=react,React,61DAFB;node.js,Node.js,339933;go,Go,00ADD8;&line2=docker,Docker,2496ED;mongodb,MongoDB,47A248;typescript,TypeScript,3178C6;" alt="Core Tech Stack" width="100%" />
+  
+  <p>🔭 Currently architecting my portfolio platform at <b>mohamedalihamroun.me</b></p>
+  <p>🌱 Focused on distributed systems and microservice architecture</p>
+  <p>🚀 Committed to writing clean, maintainable, and efficient code</p>
+  <p>🔍 Experienced in both system-level and application development</p>
 </div>
 
 <details>
