@@ -251,6 +251,20 @@ JSON         42 mins         ▒░░░░░░░░░░░░░░░░
         </p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <h3>🔹 Hamroun Express – Express-Inspired Web Framework</h3>
+        <p>Hamroun Express is a lightweight web framework for Node.js that emulates the simplicity and flexibility of Express.js. It supports middleware, basic routing, JSON response helpers, and is written in TypeScript, making it a great choice for developers seeking a straightforward and efficient server framework.</p>
+        <p align="center">
+          <a href="https://github.com/mohamedx2/hamroun-express"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Web_Framework-3178C6?style=flat&logo=express&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
