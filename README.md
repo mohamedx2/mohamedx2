@@ -12,11 +12,14 @@
 
 > "Building elegant solutions to complex problems"
 
-I'm a passionate full-stack developer with a strong foundation in computer science, having graduated from the High School of Computer Science in Mahdia. I specialize in creating efficient, scalable web applications using modern technologies.
+Hey! I'm Mohamed Ali Hamroun, a 22-year-old full stack developer and computer science student from Tunisia. I love building projects from the ground up—whether it's crafting custom JavaScript frameworks, writing backend engines in Go, or wiring up a line follower robot with Arduino.
+
+I'm passionate about learning how things work under the hood. That's why I've built my own SGBD (database engine) in Go, a full-stack JavaScript framework with SolidJS, and even a Nim-based async web server. I enjoy working across the stack, from designing intuitive frontends with React and Tailwind, to deploying Dockerized apps with robust backends.
 
 - 🔭 Currently developing my portfolio site at **mohamedalihamroun.me**
-- 🌱 Always learning and expanding my tech stack
-- 💬 Let's talk about web development, cloud solutions, or software architecture
+- 🌱 Always exploring new technologies and building interesting projects
+- 🤖 Experience with both software and hardware projects (Raspberry Pi, Arduino)
+- 🚀 Open to new ideas, collaborations, and technical challenges
 
 <details>
 <summary>📊 GitHub Stats</summary>
@@ -108,26 +111,26 @@ mindmap
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">What I'm Learning</h3>
+      <h3 align="center">What I'm Building</h3>
       <p align="center">
         <a href="https://go.dev/">
           <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         </a>
-        <a href="https://aws.amazon.com/">
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        </a>
         <a href="https://www.rust-lang.org/">
           <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
         </a>
+        <a href="https://nim-lang.org/">
+          <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black" />
+        </a>
       </p>
-      <p align="center">Currently expanding my skillset with cloud architecture and systems programming</p>
+      <p align="center">Currently working on low-level systems programming and custom frameworks</p>
     </td>
     <td width="50%">
-      <h3 align="center">Latest Articles</h3>
+      <h3 align="center">Hardware Projects</h3>
       <p align="center">
-        <a href="#">📝 Building Scalable Microservices with Docker</a><br/>
-        <a href="#">📝 React Performance Optimization Techniques</a><br/>
-        <a href="#">📝 Introduction to Web3 Development</a>
+        <a href="#">🤖 Line Follower Robot with Arduino & TCRT5000</a><br/>
+        <a href="#">🪞 Smart Mirror with Raspberry Pi</a><br/>
+        <a href="#">🔌 IoT Home Automation Experiments</a>
       </p>
     </td>
   </tr>
