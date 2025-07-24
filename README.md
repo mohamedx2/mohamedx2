@@ -34,12 +34,6 @@
 
 
 
-
-
-
-
-
-
 <div align="left">
   <p>
     I'm Mohamed Ali Hamroun, a results-driven Full Stack Developer and Computer Science student from Tunisia with a passion for building scalable, high-performance applications from the ground up. With expertise spanning both software and hardware domains, I specialize in developing innovative solutions that combine technical excellence with intuitive user experiences.
